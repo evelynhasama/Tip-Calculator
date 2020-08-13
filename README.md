@@ -34,13 +34,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/w3Q0zm4rM2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most difficult challenges presented themselves when adding additional features to the Tip Calculating app. Without the instructional video to guide me, I made several errors, especially in creating the Default Tip feauture and the Default Color feauture. While I did spend some time constructing the necessary feautures of the app, most of my hours were devoted to enhancing the app to make it more aesthetically pleasing and personalizable. Upon putting my repository on GitHub, I did have challenges uploading my work from XCode's Source Control center, as demonstrated in the video. However, I was able to upload my files through another method that should work as well.
 
 ## License
 

@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 - [ ] Default tip percentages on Settings Page
 - [ ] Default background colors on Settings Page
 - [ ] Label with a cute tip-related message
+- [ ] App Icon
+- [ ] "Tap Here" text inside the Bill Field
 
 ## Video Walkthrough
 
